@@ -1,3 +1,6 @@
 Flash Builder Library project
 
+The lib covers OAuth authentication using http://code.google.com/p/oauth-as3/
+and let's you update your Twitter status.
+
 Example: http://gist.github.com/266163
