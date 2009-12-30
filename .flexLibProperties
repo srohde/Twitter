@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flexLibProperties includeAllClasses="true" version="3">
+  <includeClasses>
+    <classEntry path="com.soenkerohde.twitter.ITwitter"/>
+    <classEntry path="com.soenkerohde.twitter.event.TwitterUserEvent"/>
+    <classEntry path="com.soenkerohde.twitter.event.TwitterStatusEvent"/>
+    <classEntry path="com.soenkerohde.twitter.event.TwitterOAuthEvent"/>
+    <classEntry path="com.soenkerohde.twitter.Twitter"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
